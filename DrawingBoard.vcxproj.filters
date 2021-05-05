@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="shapescene.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="shapeItem.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShapeItem.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="shapescene.h">
+      <Filter>header</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>header</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{c3b23b9b-b99d-4f4f-a400-332cffc81bb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rescoure">
+      <UniqueIdentifier>{a4a0d686-2ac3-4667-b717-1324ab091b59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{e2aaa659-14e0-43cf-9241-776acb784310}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="mainwindow.qrc">
+      <Filter>rescoure</Filter>
+    </QtRcc>
+  </ItemGroup>
+</Project>

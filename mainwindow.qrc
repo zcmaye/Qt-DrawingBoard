@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/3d.png</file>
+        <file>images/choose.png</file>
+        <file>images/ChooseInvert.png</file>
+        <file>images/ChoosePoligon.png</file>
+        <file>images/ChooseRect.png</file>
+        <file>images/Color.png</file>
+        <file>images/deleteZone.png</file>
+        <file>images/drawCircle.png</file>
+        <file>images/drawCurve.png</file>
+        <file>images/drawEllipse.png</file>
+        <file>images/drawFillPentacle.png</file>
+        <file>images/drawFilledRect.png</file>
+        <file>images/drawLine.png</file>
+        <file>images/drawPoint.png</file>
+        <file>images/drawPoligon.png</file>
+        <file>images/drawRect.png</file>
+        <file>images/Main.png</file>
+        <file>images/minus.png</file>
+        <file>images/Move.png</file>
+        <file>images/plus.png</file>
+        <file>images/redo.png</file>
+        <file>images/Rotate.png</file>
+        <file>images/undo.png</file>
+        <file>images/Zoom.png</file>
+        <file>images/drawTriangle.png</file>
+    </qresource>
+</RCC>
